@@ -1,0 +1,4 @@
+Esta es una linea normal.
+Esta es una linea que contiene caracteres especiales como @#$% y numeros 12345.
+UnaLineaExtremadamenteLargaSinEspacios...................................................................................................................................................................................................
+Fin del archivo.
